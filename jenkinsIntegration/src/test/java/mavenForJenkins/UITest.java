@@ -18,6 +18,7 @@ public class UITest {
 		driver.get("https://opensource-demo.orangehrmlive.com/");
 		Assert.assertTrue(driver.getTitle().contains("Orange"), "Title does not match");
 		system.out.println("chnged for jenkins");
+		system.out.println("chnged for jenkins");
 		driver.quit();
 	}
 }
