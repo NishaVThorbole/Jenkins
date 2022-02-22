@@ -19,6 +19,7 @@ public class UITest {
 		Assert.assertTrue(driver.getTitle().contains("Orange"), "Title does not match");
 		system.out.println("chnged for jenkins");
 		system.out.println("chnged for jenkins");
+		system.out.println("chnged for jenkins");
 		driver.quit();
 	}
 }
